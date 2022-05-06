@@ -21,7 +21,7 @@ export default function MyPortfolio() {
         <br></br><img class="portImg" src="https://raw.githubusercontent.com/danielhillsman/Person-Work-Portfolio/main/assets/images/javascript-quiz.png"/>
 
         <br></br>Project 4:
-        <br></br><a className='thereYet' href='aqueous-lake-50457.herokuapp.com/'>Website Link</a>
+        <br></br><a className='thereYet' href='https://aqueous-lake-50457.herokuapp.com/'>Website Link</a>
         <br></br><a class="thereYet" href="https://github.com/danielhillsman/Daniel-Beans-Corner"> Repository Link</a>
         <br></br><img class="portImg" src="https://raw.githubusercontent.com/danielhillsman/Daniel-Beans-Corner/main/public/assets/images/Screenshot-1.png"/>
 
@@ -31,8 +31,8 @@ export default function MyPortfolio() {
         <br></br><img class="portImg" src="https://raw.githubusercontent.com/danielhillsman/Weather-Dashboard/main/assets/images/Screenshot1.png"/>
 
         <br></br>Project 6:
-        <br></br><a className='thereYet' href='nameless-dawn-89231.herokuapp.com/'>Website Link</a>
-        <br></br><a class="thereYet" href="https://github.com/danielhillsman/Professional_Note_Taker"> Repository Link</a>
+        <br></br><a className='thereYet' href='https://nameless-dawn-89231.herokuapp.com/'>Website Link</a>
+        <br></br><a class="thereYet" href="https://github.com/danielhillsman/Professional_Note_Taker/"> Repository Link</a>
         <br></br><img class="portImg" src="https://raw.githubusercontent.com/danielhillsman/Professional_Note_Taker/main/img/Screenshot1.png"/>
 
 
