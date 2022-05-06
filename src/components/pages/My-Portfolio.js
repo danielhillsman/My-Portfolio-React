@@ -34,22 +34,7 @@ export default function MyPortfolio() {
         <br></br><a className='thereYet' href='https://nameless-dawn-89231.herokuapp.com/'>Website Link</a>
         <br></br><a class="thereYet" href="https://github.com/danielhillsman/Professional_Note_Taker/"> Repository Link</a>
         <br></br><img class="portImg" src="https://raw.githubusercontent.com/danielhillsman/Professional_Note_Taker/main/img/Screenshot1.png"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
     </div>
   );
 }
