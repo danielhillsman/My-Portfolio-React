@@ -5,12 +5,17 @@ body {
   font-family: Arial;
   text-align: center;
 }
- .wrapper {
+.wrapper {
   background-color:rgb(17, 17, 88);
   border-radius: 1000px;
   align-items: center;
 }
 .contactBox{
   font-size: 20px;
-
+}
+img {
+  max-width: 45vh;
+  padding: 5vh;
+  background-color: rgb(17, 17, 88);
+  border-radius: 1000px;
 }

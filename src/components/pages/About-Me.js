@@ -3,6 +3,7 @@ import React from 'react';
 export default function AboutMe() {
   return (
     <div>
+       <div alt="picture of myself" class="myself"><img src="https://raw.githubusercontent.com/danielhillsman/Person-Work-Portfolio/main/assets/images/photo-of-me.jpg"/></div>
       <h1>About Me</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
