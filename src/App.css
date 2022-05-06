@@ -5,10 +5,12 @@ body {
   font-family: Arial;
   text-align: center;
 }
-.wrapper {
-  padding: 5px 20px;
+ .wrapper {
+  background-color:rgb(17, 17, 88);
+  border-radius: 1000px;
+  align-items: center;
 }
+.contactBox{
+  font-size: 20px;
 
-.wrapper fieldset {
-  margin: 20px 0;
 }

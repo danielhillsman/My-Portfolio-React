@@ -5,7 +5,6 @@ export default function Contact() {
   return (
     <div>
       <h1>Contact Me</h1>
-
       <div className="wrapper">
       <form>
       <fieldset>
@@ -23,20 +22,24 @@ export default function Contact() {
        <button type="submit">Submit</button>
       </form>
     </div>
+        
+    <div class="contactBox">
+        <br></br>
+        <p2>OR!</p2>
+        <br></br>
+        <p2>Contact me at these links:</p2>
+            <p>
+            <br></br>
+            My <a class="contactLinks" href="https://www.linkedin.com/in/daniel-hillsman/">Linkedin! </a>
+            <br></br>
+            Check out my <a class="contactLinks" href="https://github.com/danielhillsman">GitHub! </a>
+            <br></br>
+            Or <a class="contactLinks" href = "mailto:daniel.loves.junk@gmail">E-mail</a> Me!
+            <br></br>
+            daniel.loves.junk@gmail.com
+            </p>
 
-      <p>
-        Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-        molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-        magna a ultrices. Aenean pellentesque placerat lacus imperdiet
-        efficitur. In felis nisl, luctus non ante euismod, tincidunt bibendum
-        mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-        posuere, eget tristique dui dapibus. Maecenas fermentum elementum
-        faucibus. Quisque nec metus vestibulum, egestas massa eu, sollicitudin
-        ipsum. Nulla facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh
-        dictum ullamcorper. Class aptent taciti sociosqu ad litora torquent per
-        conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
-        rhoncus. Etiam vel condimentum magna, quis tempor nulla.
-      </p>
+    </div>
     </div>
 
   );
