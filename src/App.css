@@ -34,8 +34,12 @@ font-size: 15vh;
   width: 100%;
   background-color: rgb(2, 2, 167);
 }
-.portImg{
+.portImg {
   max-width: 70vh;
   max-height: 30vh;
   border: 10px solid #152241;
+}
+.footer {
+  background-color: #152241;
+  border: 10px solid #242830;
 }
