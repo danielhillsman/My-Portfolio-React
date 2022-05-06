@@ -3,15 +3,14 @@ import NavTabs from './NavTabs';
 import AboutMe from './pages/About-Me';
 import MyPortfolio from './pages/My-Portfolio';
 import MyResume from './pages/MyResume';
-import Contact from './pages/Contact';
+import ContactMe from './pages/ContactMe';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('AboutMe');
 
-  // TODO: Add a comment describing the functionality of this method
   const renderPage = () => {
-    if (currentPage === 'Contact') {
-      return <Contact />;
+    if (currentPage === 'ContactMe') {
+      return <ContactMe />;
     }
     if (currentPage === 'My-Portfolio') {
       return <MyPortfolio />;
