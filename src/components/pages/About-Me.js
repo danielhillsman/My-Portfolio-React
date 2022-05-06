@@ -30,7 +30,7 @@ export default function AboutMe() {
 
 
 
-<div className='paraGra'>
+    <div className='paraGra'>
       <p>
         Hello! My name is Daniel Hillsman. I have a creative personality that is used well for solving problems and catching issues. I work well by myself or with groups.
         I am extremely easy going and flexible. Easy to manage, and great at helping others. I will always go above-and-beyond to achieve more than the exceptional criteria and qualifications for my clients and employers.
@@ -45,7 +45,7 @@ export default function AboutMe() {
         <br></br>  
         If you have any questions or would like to connect with me, please click on the "Contact Me" Tab above.
         </p>
-        </div>
+      </div>
 
     </div>
   );

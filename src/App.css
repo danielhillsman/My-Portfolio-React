@@ -13,13 +13,11 @@ body {
 .contactBox{
   font-size: 20px;
 }
-img {
+.myself img{
   max-width: 45vh;
   padding: 5vh;
   background-color: #152241;
-
   border-radius: 1000px;
- 
 }
 .resume {
 font-size: 15vh;
@@ -35,4 +33,9 @@ font-size: 15vh;
   border: 15px solid #242830;
   width: 100%;
   background-color: rgb(2, 2, 167);
+}
+.portImg{
+  max-width: 70vh;
+  max-height: 30vh;
+  border: 10px solid #152241;
 }
